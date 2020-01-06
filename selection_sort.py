@@ -11,7 +11,7 @@ def selection_sort(array: list):
     Args:
         array: an unsorted list
     Returns:
-
+        a list of sorted elements
     """
     # loop through the list
     for i in range(len(array)):
